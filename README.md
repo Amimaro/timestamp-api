@@ -7,7 +7,7 @@
 ## Example usage:
 ```url
 https://fcc-api-1.glitch.me/December%2015,%202015
-ttps://fcc-api-1.glitch.me/1450137600
+https://fcc-api-1.glitch.me/1450137600
 ```
 ## Example output:
 ```json
